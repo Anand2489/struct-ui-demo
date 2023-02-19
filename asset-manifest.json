@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/struct-ui-demo/static/css/main.d1eb5ec2.css",
+    "main.js": "/struct-ui-demo/static/js/main.00440195.js",
+    "static/js/787.7584d105.chunk.js": "/struct-ui-demo/static/js/787.7584d105.chunk.js",
+    "index.html": "/struct-ui-demo/index.html",
+    "static/media/message.svg": "/struct-ui-demo/static/media/message.0704cc2834ba76106551fa0f92975341.svg",
+    "static/media/read-thread.svg": "/struct-ui-demo/static/media/read-thread.f58433c88e7cbb4b0a4ccde2b76a64cd.svg",
+    "main.d1eb5ec2.css.map": "/struct-ui-demo/static/css/main.d1eb5ec2.css.map",
+    "main.00440195.js.map": "/struct-ui-demo/static/js/main.00440195.js.map",
+    "787.7584d105.chunk.js.map": "/struct-ui-demo/static/js/787.7584d105.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1eb5ec2.css",
+    "static/js/main.00440195.js"
+  ]
+}
