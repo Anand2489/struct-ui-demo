@@ -1,0 +1,11 @@
+.tag {
+  font-size: small;
+  color: #475569;
+  padding: 2px 10px;
+  border: 1px solid #475569;
+  border-radius: 10px;
+}
+
+.tag:not(:last-child) {
+  margin-right: 10px;
+}

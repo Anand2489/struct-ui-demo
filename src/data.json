@@ -1,0 +1,173 @@
+[
+{
+    "title": "Does svelte-kit support PUT and DELETE http methods in the html forms?",
+    "tags": ["svelte", "svelte-kit"],
+    "id": "abc123",
+    "likes": 3,
+    "lastActivity": 1676711771704,
+    "members": {
+      "total": 10,
+      "data": [
+        {
+          "userName": "Unorthodox",
+          "photo_url": "dp1.jpg",
+          "user_id": "user123"
+        },
+        {
+          "userName": "Emil Tholin",
+          "photo_url": "dp2.jpg",
+          "user_id": "user124"
+        },
+        {
+          "userName": "Unorthodox",
+          "photo_url": "dp3.jpg",
+          "user_id": "user126"
+        },
+        {
+          "userName": "Unorthodox",
+          "photo_url": "dp5.jpg",
+          "user_id": "user127"
+        }
+      ]
+    },
+    "messages": {
+      "total": 3,
+      "star": 0,
+      "end": 3,
+      "data": [
+        {
+          "userName": "Unorthodox",
+          "photo_url": "dp1.jpg",
+          "msg": "I know html forms only supports POST and GET methods in <form> tags. but does svelte/svelte-kit support it?",
+          "id": "msg123"
+        },
+        {
+          "userName": "Emil Tholin",
+          "photo_url": "dp2.jpg",
+          "msg": "Hey @Unorthodox. As you say forms only support POST and GET requests, and SK follows that convention. You could try the PUT as a fun experiment, but I wouldn't do that in a real application as it's not defined behavior. If it by chance does work it might stop working in later versions.",
+          "id": "msg124"
+        },
+        {
+          "userName": "Unorthodox",
+          "photo_url": "dp1.jpg",
+          "msg": "yeah it didn't work, I tried using PUT but apparently it ends up as a GET request, I just used post method instead. Thanks for the answer",
+          "id": "msg125"
+        }
+      ]
+    }
+},
+{
+  "title": "Does react better handles html forms & is performant?",
+  "tags": ["react", "create-react-app"],
+  "id": "abc1234",
+  "likes": 3,
+  "lastActivity": 1676313000000,
+  "members": {
+    "total": 8,
+    "data": [
+      {
+        "userName": "Unorthodox",
+        "photo_url": "dp1.jpg",
+        "user_id": "user123"
+      },
+      {
+        "userName": "Emil Tholin",
+        "photo_url": "dp2.jpg",
+        "user_id": "user124"
+      },
+      {
+        "userName": "Unorthodox",
+        "photo_url": "dp3.jpg",
+        "user_id": "user126"
+      },
+      {
+        "userName": "Unorthodox",
+        "photo_url": "dp4.jpg",
+        "user_id": "user127"
+      }
+    ]
+  },
+  "messages": {
+    "total": 3,
+    "star": 0,
+    "end": 3,
+    "data": [
+      {
+        "userName": "Unorthodox",
+        "photo_url": "dp1.jpg",
+        "msg": "I know html forms only supports POST and GET methods in <form> tags. but does svelte/svelte-kit support it?",
+        "id": "msg123"
+      },
+      {
+        "userName": "Emil Tholin",
+        "photo_url": "dp2.jpg",
+        "msg": "Hey @Unorthodox. As you say forms only support POST and GET requests, and SK follows that convention. You could try the PUT as a fun experiment, but I wouldn't do that in a real application as it's not defined behavior. If it by chance does work it might stop working in later versions.",
+        "id": "msg124"
+      },
+      {
+        "userName": "Unorthodox",
+        "photo_url": "dp1.jpg",
+        "msg": "yeah it didn't work, I tried using PUT but apparently it ends up as a GET request, I just used post method instead. Thanks for the answer",
+        "id": "msg125"
+      }
+    ]
+  }
+},
+{
+  "title": "Does svelte-ui support http methods in the html forms?",
+  "tags": ["svelte-ui", "svelte-kit"],
+  "id": "abc1235",
+  "likes": 3,
+  "lastActivity": 1676814556238,
+  "members": {
+    "total": 7,
+    "data": [
+      {
+        "userName": "Unorthodox",
+        "photo_url": "dp1.jpg",
+        "user_id": "user123"
+      },
+      {
+        "userName": "Emil Tholin",
+        "photo_url": "dp2.jpg",
+        "user_id": "user124"
+      },
+      {
+        "userName": "Unorthodox",
+        "photo_url": "dp4.jpg",
+        "user_id": "user126"
+      },
+      {
+        "userName": "Unorthodox",
+        "photo_url": "dp5.jpg",
+        "user_id": "user127"
+      }
+    ]
+  },
+  "messages": {
+    "total": 3,
+    "star": 0,
+    "end": 3,
+    "data": [
+      {
+        "userName": "Unorthodox",
+        "photo_url": "dp1.jpg",
+        "msg": "I know html forms only supports POST and GET methods in <form> tags. but does svelte/svelte-kit support it?",
+        "id": "msg123"
+      },
+      {
+        "userName": "Emil Tholin",
+        "photo_url": "dp2.jpg",
+        "msg": "Hey @Unorthodox. As you say forms only support POST and GET requests, and SK follows that convention. You could try the PUT as a fun experiment, but I wouldn't do that in a real application as it's not defined behavior. If it by chance does work it might stop working in later versions.",
+        "id": "msg124"
+      },
+      {
+        "userName": "Unorthodox",
+        "photo_url": "dp1.jpg",
+        "msg": "yeah it didn't work, I tried using PUT but apparently it ends up as a GET request, I just used post method instead. Thanks for the answer",
+        "id": "msg125"
+      }
+    ]
+  }
+}
+]
