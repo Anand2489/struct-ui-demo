@@ -60,7 +60,7 @@
   "title": "Does react better handles html forms & is performant?",
   "tags": ["react", "create-react-app"],
   "id": "abc1234",
-  "likes": 3,
+  "likes": 5,
   "lastActivity": 1676313000000,
   "members": {
     "total": 8,
@@ -88,7 +88,7 @@
     ]
   },
   "messages": {
-    "total": 3,
+    "total": 30,
     "star": 0,
     "end": 3,
     "data": [
@@ -117,7 +117,7 @@
   "title": "Does svelte-ui support http methods in the html forms?",
   "tags": ["svelte-ui", "svelte-kit"],
   "id": "abc1235",
-  "likes": 3,
+  "likes": 10,
   "lastActivity": 1676814556238,
   "members": {
     "total": 7,
@@ -145,7 +145,7 @@
     ]
   },
   "messages": {
-    "total": 3,
+    "total": 20,
     "star": 0,
     "end": 3,
     "data": [
